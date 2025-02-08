@@ -26,3 +26,4 @@ Uma lista de tarefas estilizada com um design inspirado em um tema anime. Inclui
 
 ## Captura de Tela
 ![Capturar de Tela](https://github.com/user-attachments/assets/303a470a-8e22-463e-a3e1-19c85f35059f)
+![Capturar de Tela1](https://github.com/user-attachments/assets/4baf791e-6cdd-4124-b585-833608d378e0)
