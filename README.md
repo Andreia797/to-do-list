@@ -1,4 +1,4 @@
-# Lista de Tarefas - Anime Dark Fofo
+# Lista de Tarefas
 
 Uma lista de tarefas estilizada com um design inspirado em um tema anime. Inclui uma imagem de fundo de anime para tornar a experiência mais agradável.
 
